@@ -1,11 +1,21 @@
-# EDM-Portfolio Sanchez Darrel Matthew C.
-This portfolio will contain copies of my Enterprise Data Management Lab Exercises
-# About Me
-Hello, my name is Darrel Matthew C. Sanchez, and i'm currently taking my first year BSIS in City College of Angeles.
-# Education
-- College: City College of Angeles (BSIS)
-- Highschool: Angeles City National High School 
-- Elementary: Lourdes North West Elementary School
-# My Projects
-- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/Dsanchez05/EDM-Sanchez-Darrel-Matthew-C./tree/main/Midterm%20Task%201)
-- Midterm Lab Task 2  [Data Cleaning and Preparation using Power Query](https://github.com/Dsanchez05/EDM-Sanchez-Darrel-Matthew-C./tree/main/Midterm%20Task%202))
+# Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
+In this activity, we cleaned an excel sheet fill of errors and redundancy using different excel features.
+## Step 1 Data Cleaning
+- Load the raw file
+- Fit Column and row width and height
+- TRIM extra spaces
+- Remove NULL values
+- Remove Duplicates
+## Step 2 Data Normalization
+- Performed 1NF
+- Perform Table split using 2NF
+- Perform 3NF
+- Mapped the Normalized Tables as a Physical Data Model
+## Step 3 Before
+![screenshot](/Midterm%20Task%201/Images/Before.png)
+
+## Step 4 After
+![screenshot](/Midterm%20Task%201/Images/After.png)
+
+## Here's the Physical Data Model
+![screenshot](/Midterm%20Task%201/Images/Relation.png)
