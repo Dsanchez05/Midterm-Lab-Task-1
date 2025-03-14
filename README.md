@@ -6,7 +6,7 @@ In this activity, we cleaned an excel sheet fill of errors and redundancy using 
 - TRIM extra spaces
 - Remove NULL values
 - Remove Duplicates
-## Step 2 Data Normalization
+## Step 2 Data Normalization.
 - Performed 1NF
 - Perform Table split using 2NF
 - Perform 3NF
